@@ -20,7 +20,7 @@ pr:
     include:
       - '*'
 
-stages
+stages:
   - stage: production
     displayName: Production
     variables:
